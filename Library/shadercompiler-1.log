@@ -1,0 +1,295 @@
+Base path: K:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-11440
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=6168 outsize=2405 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10051 outsize=6117 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10051 outsize=3752 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7638 outsize=5767 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7638 outsize=4077 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7469 outsize=4963 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7469 outsize=1957 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=9475 outsize=5020 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=9475 outsize=1794 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6918 outsize=3720 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6918 outsize=868 kw=SHADOWS_DEPTH ok=1
+Cmd: preprocess
+  insize=2701 outsize=1979 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6908 outsize=4215 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6908 outsize=2980 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4501 outsize=3866 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4501 outsize=3265 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4445 outsize=3151 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4445 outsize=1737 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6381 outsize=3118 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6381 outsize=1818 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3535 outsize=1404 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3535 outsize=437 kw=SHADOWS_DEPTH ok=1
+Cmd: preprocess
+  insize=1163 outsize=400 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1065 outsize=1266 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1065 outsize=754 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4501 outsize=3086 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4501 outsize=2793 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7638 outsize=4987 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7638 outsize=3606 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=11924 outsize=1851 kw=MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=11924 outsize=1315 kw=MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=22342 outsize=4760 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=22342 outsize=8278 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=25021 outsize=4240 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=25021 outsize=13486 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14075 outsize=2493 kw=DIRECTIONAL SHADOWS_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14075 outsize=4646 kw=DIRECTIONAL SHADOWS_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14075 outsize=2493 kw=DIRECTIONAL SHADOWS_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14075 outsize=4492 kw=DIRECTIONAL SHADOWS_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=25021 outsize=4597 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=25021 outsize=9472 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14075 outsize=2850 kw=DIRECTIONAL SHADOWS_SCREEN MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14075 outsize=4808 kw=DIRECTIONAL SHADOWS_SCREEN MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=25021 outsize=7732 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=25021 outsize=8208 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=25021 outsize=1059 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=25021 outsize=9938 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=25021 outsize=6011 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=25021 outsize=5653 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=14075 outsize=554 kw=SPOT SHADOWS_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14075 outsize=3208 kw=POINT_COOKIE SHADOWS_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14075 outsize=3183 kw=DIRECTIONAL_COOKIE SHADOWS_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=14075 outsize=644 kw=SPOT SHADOWS_DEPTH SHADOWS_NATIVE MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=14075 outsize=574 kw=POINT SHADOWS_CUBE MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14075 outsize=3354 kw=POINT_COOKIE SHADOWS_CUBE MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=14075 outsize=644 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT SHADOWS_NATIVE MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=14075 outsize=574 kw=POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14075 outsize=3208 kw=POINT SHADOWS_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=14075 outsize=554 kw=SPOT SHADOWS_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=14075 outsize=3208 kw=POINT_COOKIE SHADOWS_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=14075 outsize=4224 kw=SPOT SHADOWS_DEPTH SHADOWS_NATIVE MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=14075 outsize=644 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=14075 outsize=5714 kw=POINT SHADOWS_CUBE SHADOWS_SOFT MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=14075 outsize=3503 kw=DIRECTIONAL_COOKIE SHADOWS_OFF MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=14075 outsize=574 kw=POINT SHADOWS_CUBE MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=14075 outsize=5464 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=14075 outsize=443 kw=DIRECTIONAL SHADOWS_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=14075 outsize=536 kw=POINT_COOKIE SHADOWS_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=14075 outsize=4635 kw=SPOT SHADOWS_DEPTH MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=14075 outsize=574 kw=POINT_COOKIE SHADOWS_CUBE MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=14075 outsize=4762 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT SHADOWS_NATIVE MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=11924 outsize=2286 kw=MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=22342 outsize=1224 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=22342 outsize=9560 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=25021 outsize=5405 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=25021 outsize=820 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=25021 outsize=9608 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=25021 outsize=872 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=25021 outsize=4037 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=25021 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=25021 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=25021 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=25021 outsize=2431 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=25021 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=25021 outsize=3817 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=25021 outsize=9318 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=25021 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=25021 outsize=3367 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=25021 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=25021 outsize=2754 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=25021 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=25021 outsize=3877 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=25021 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=25021 outsize=4049 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14075 outsize=5304 kw=SPOT SHADOWS_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14075 outsize=4808 kw=DIRECTIONAL SHADOWS_SCREEN MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=14075 outsize=6 kw=POINT SHADOWS_CUBE SHADOWS_SOFT MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=14075 outsize=2473 kw=POINT SHADOWS_CUBE SHADOWS_SOFT MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=14075 outsize=1998 kw=POINT SHADOWS_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=14075 outsize=6 kw=SPOT SHADOWS_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=14075 outsize=2134 kw=SPOT SHADOWS_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14075 outsize=4906 kw=DIRECTIONAL_COOKIE SHADOWS_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14075 outsize=5727 kw=POINT SHADOWS_CUBE MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=14075 outsize=1895 kw=POINT SHADOWS_OFF MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=14075 outsize=1956 kw=POINT_COOKIE SHADOWS_OFF MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14075 outsize=5824 kw=SPOT SHADOWS_DEPTH SHADOWS_NATIVE MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=14075 outsize=6 kw=POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=14075 outsize=2528 kw=POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=14075 outsize=6 kw=SPOT SHADOWS_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=14075 outsize=2137 kw=SPOT SHADOWS_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=14075 outsize=6 kw=DIRECTIONAL_COOKIE SHADOWS_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=14075 outsize=4906 kw=DIRECTIONAL_COOKIE SHADOWS_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=14075 outsize=6 kw=POINT_COOKIE SHADOWS_CUBE MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=14075 outsize=2342 kw=POINT_COOKIE SHADOWS_CUBE MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=14075 outsize=6 kw=POINT SHADOWS_CUBE SHADOWS_SOFT MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=14075 outsize=2569 kw=POINT SHADOWS_CUBE SHADOWS_SOFT MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=11924 outsize=1315 kw=MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=22342 outsize=4654 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=22342 outsize=3655 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_ON MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=22342 outsize=4654 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=22342 outsize=4654 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=22342 outsize=8574 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=22342 outsize=1187 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=22342 outsize=4037 kw=LIGHTMAP_ON DIRLIGHTMAP_ON MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=22342 outsize=4037 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_ON MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=22342 outsize=6 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=22342 outsize=6 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=22342 outsize=6 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=22342 outsize=2722 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=22342 outsize=9675 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_OFF MARMO_SKY_BLEND_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=22342 outsize=9188 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF MARMO_SKY_BLEND_OFF MARMO_BOX_PROJECTION_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=22342 outsize=12608 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_BOX_PROJECTION_ON MARMO_SKY_BLEND_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3154 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3154 outsize=381 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3153 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3198 outsize=4753 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1065 outsize=1048 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1354 outsize=2917 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1008 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1171 outsize=351 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3259 outsize=2023 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3254 outsize=66 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3253 outsize=2023 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3253 outsize=59 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4698 outsize=1219 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4703 outsize=3015 kw= ok=1
