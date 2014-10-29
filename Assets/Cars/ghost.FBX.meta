@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 77b5b9fd55ce45c4298d12b90171782e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: black
+    100002: black m
+    100004: black m0
+    100006: black m01
+    100008: black m1
+    100010: black m2
+    100012: black0
+    100014: black01
+    100016: black02
+    100018: black1
+    100020: black2
+    100022: black3
+    100024: body
+    100026: body0
+    100028: body01
+    100030: body1
+    100032: body2
+    100034: bodyx
+    100036: chrome
+    100038: chrome0
+    100040: chrome01
+    100042: chrome02
+    100044: chrome03
+    100046: chrome1
+    100048: chrome10
+    100050: chrome11
+    100052: chrome12
+    100054: chrome13
+    100056: chrome14
+    100058: chrome15
+    100060: chrome16
+    100062: chrome17
+    100064: chrome2
+    100066: chrome210
+    100068: chrome220
+    100070: chrome230
+    100072: chrome240
+    100074: chrome250
+    100076: chrome260
+    100078: chrome261
+    100080: chrome262
+    100082: chrome263
+    100084: chrome3
+    100086: chrome4
+    100088: chrome5
+    100090: chrome6
+    100092: chrome7
+    100094: chrome8
+    100096: chrome9
+    100098: d glass
+    100100: d glass0
+    100102: d glass01
+    100104: d glass1
+    100106: d glass2
+    100108: //RootNode
+    100110: glass
+    100112: glass0
+    100114: glass1
+    100116: gum
+    100118: gum01
+    100120: gum010
+    100122: gum100
+    100124: gum110
+    100126: gum120
+    100128: gum130
+    100130: gum140
+    100132: gum141
+    100134: gum142
+    100136: gum143
+    100138: gum144
+    100140: gum145
+    100142: gum146
+    100144: gum147
+    100146: gum148
+    100148: gum149
+    100150: gum90
+    100152: gum94
+    100154: gum95
+    100156: int
+    100158: int0
+    100160: int02
+    100162: int1
+    100164: int10
+    100166: int2
+    100168: Line01
+    100170: logo
+    100172: logo01
+    100174: logo02
+    100176: logo03
+    100178: logox
+    100180: logox0
+    100182: logox01
+    100184: logox1
+    100186: Object01
+    100188: Object02
+    100190: Object03
+    100192: Object07
+    100194: plate
+    100196: plate01
+    100198: red
+    100200: red0
+    100202: silver
+    100204: silver04
+    100206: silver05
+    100208: silver06
+    100210: silver07
+    100212: silver08
+    100214: silver09
+    100216: silver10
+    100218: stwheel
+    100220: wheel FL 0
+    100222: wheel FL 1
+    100224: wheel FL 2
+    100226: wheel FL n
+    100228: wood
+    100230: wood0
+    100232: wood1
+    400000: black
+    400002: black m
+    400004: black m0
+    400006: black m01
+    400008: black m1
+    400010: black m2
+    400012: black0
+    400014: black01
+    400016: black02
+    400018: black1
+    400020: black2
+    400022: black3
+    400024: body
+    400026: body0
+    400028: body01
+    400030: body1
+    400032: body2
+    400034: bodyx
+    400036: chrome
+    400038: chrome0
+    400040: chrome01
+    400042: chrome02
+    400044: chrome03
+    400046: chrome1
+    400048: chrome10
+    400050: chrome11
+    400052: chrome12
+    400054: chrome13
+    400056: chrome14
+    400058: chrome15
+    400060: chrome16
+    400062: chrome17
+    400064: chrome2
+    400066: chrome210
+    400068: chrome220
+    400070: chrome230
+    400072: chrome240
+    400074: chrome250
+    400076: chrome260
+    400078: chrome261
+    400080: chrome262
+    400082: chrome263
+    400084: chrome3
+    400086: chrome4
+    400088: chrome5
+    400090: chrome6
+    400092: chrome7
+    400094: chrome8
+    400096: chrome9
+    400098: d glass
+    400100: d glass0
+    400102: d glass01
+    400104: d glass1
+    400106: d glass2
+    400108: //RootNode
+    400110: glass
+    400112: glass0
+    400114: glass1
+    400116: gum
+    400118: gum01
+    400120: gum010
+    400122: gum100
+    400124: gum110
+    400126: gum120
+    400128: gum130
+    400130: gum140
+    400132: gum141
+    400134: gum142
+    400136: gum143
+    400138: gum144
+    400140: gum145
+    400142: gum146
+    400144: gum147
+    400146: gum148
+    400148: gum149
+    400150: gum90
+    400152: gum94
+    400154: gum95
+    400156: int
+    400158: int0
+    400160: int02
+    400162: int1
+    400164: int10
+    400166: int2
+    400168: Line01
+    400170: logo
+    400172: logo01
+    400174: logo02
+    400176: logo03
+    400178: logox
+    400180: logox0
+    400182: logox01
+    400184: logox1
+    400186: Object01
+    400188: Object02
+    400190: Object03
+    400192: Object07
+    400194: plate
+    400196: plate01
+    400198: red
+    400200: red0
+    400202: silver
+    400204: silver04
+    400206: silver05
+    400208: silver06
+    400210: silver07
+    400212: silver08
+    400214: silver09
+    400216: silver10
+    400218: stwheel
+    400220: wheel FL 0
+    400222: wheel FL 1
+    400224: wheel FL 2
+    400226: wheel FL n
+    400228: wood
+    400230: wood0
+    400232: wood1
+    2300000: black
+    2300002: black m
+    2300004: black m0
+    2300006: black m01
+    2300008: black m1
+    2300010: black m2
+    2300012: black0
+    2300014: black01
+    2300016: black02
+    2300018: black1
+    2300020: black2
+    2300022: black3
+    2300024: body
+    2300026: body0
+    2300028: body01
+    2300030: body1
+    2300032: body2
+    2300034: bodyx
+    2300036: chrome
+    2300038: chrome0
+    2300040: chrome01
+    2300042: chrome02
+    2300044: chrome03
+    2300046: chrome1
+    2300048: chrome10
+    2300050: chrome11
+    2300052: chrome12
+    2300054: chrome13
+    2300056: chrome14
+    2300058: chrome15
+    2300060: chrome16
+    2300062: chrome17
+    2300064: chrome2
+    2300066: chrome210
+    2300068: chrome220
+    2300070: chrome230
+    2300072: chrome240
+    2300074: chrome250
+    2300076: chrome260
+    2300078: chrome261
+    2300080: chrome262
+    2300082: chrome263
+    2300084: chrome3
+    2300086: chrome4
+    2300088: chrome5
+    2300090: chrome6
+    2300092: chrome7
+    2300094: chrome8
+    2300096: chrome9
+    2300098: d glass
+    2300100: d glass0
+    2300102: d glass01
+    2300104: d glass1
+    2300106: d glass2
+    2300108: glass
+    2300110: glass0
+    2300112: glass1
+    2300114: gum
+    2300116: gum01
+    2300118: gum010
+    2300120: gum100
+    2300122: gum110
+    2300124: gum120
+    2300126: gum130
+    2300128: gum140
+    2300130: gum141
+    2300132: gum142
+    2300134: gum143
+    2300136: gum144
+    2300138: gum145
+    2300140: gum146
+    2300142: gum147
+    2300144: gum148
+    2300146: gum149
+    2300148: gum90
+    2300150: gum94
+    2300152: gum95
+    2300154: int
+    2300156: int0
+    2300158: int02
+    2300160: int1
+    2300162: int10
+    2300164: int2
+    2300166: logo
+    2300168: logo01
+    2300170: logo02
+    2300172: logo03
+    2300174: logox
+    2300176: logox0
+    2300178: logox01
+    2300180: logox1
+    2300182: Object01
+    2300184: Object02
+    2300186: Object03
+    2300188: Object07
+    2300190: plate
+    2300192: plate01
+    2300194: red
+    2300196: red0
+    2300198: silver
+    2300200: silver04
+    2300202: silver05
+    2300204: silver06
+    2300206: silver07
+    2300208: silver08
+    2300210: silver09
+    2300212: silver10
+    2300214: stwheel
+    2300216: wheel FL 0
+    2300218: wheel FL 1
+    2300220: wheel FL 2
+    2300222: wheel FL n
+    2300224: wood
+    2300226: wood0
+    2300228: wood1
+    3300000: black
+    3300002: black m
+    3300004: black m0
+    3300006: black m01
+    3300008: black m1
+    3300010: black m2
+    3300012: black0
+    3300014: black01
+    3300016: black02
+    3300018: black1
+    3300020: black2
+    3300022: black3
+    3300024: body
+    3300026: body0
+    3300028: body01
+    3300030: body1
+    3300032: body2
+    3300034: bodyx
+    3300036: chrome
+    3300038: chrome0
+    3300040: chrome01
+    3300042: chrome02
+    3300044: chrome03
+    3300046: chrome1
+    3300048: chrome10
+    3300050: chrome11
+    3300052: chrome12
+    3300054: chrome13
+    3300056: chrome14
+    3300058: chrome15
+    3300060: chrome16
+    3300062: chrome17
+    3300064: chrome2
+    3300066: chrome210
+    3300068: chrome220
+    3300070: chrome230
+    3300072: chrome240
+    3300074: chrome250
+    3300076: chrome260
+    3300078: chrome261
+    3300080: chrome262
+    3300082: chrome263
+    3300084: chrome3
+    3300086: chrome4
+    3300088: chrome5
+    3300090: chrome6
+    3300092: chrome7
+    3300094: chrome8
+    3300096: chrome9
+    3300098: d glass
+    3300100: d glass0
+    3300102: d glass01
+    3300104: d glass1
+    3300106: d glass2
+    3300108: glass
+    3300110: glass0
+    3300112: glass1
+    3300114: gum
+    3300116: gum01
+    3300118: gum010
+    3300120: gum100
+    3300122: gum110
+    3300124: gum120
+    3300126: gum130
+    3300128: gum140
+    3300130: gum141
+    3300132: gum142
+    3300134: gum143
+    3300136: gum144
+    3300138: gum145
+    3300140: gum146
+    3300142: gum147
+    3300144: gum148
+    3300146: gum149
+    3300148: gum90
+    3300150: gum94
+    3300152: gum95
+    3300154: int
+    3300156: int0
+    3300158: int02
+    3300160: int1
+    3300162: int10
+    3300164: int2
+    3300166: logo
+    3300168: logo01
+    3300170: logo02
+    3300172: logo03
+    3300174: logox
+    3300176: logox0
+    3300178: logox01
+    3300180: logox1
+    3300182: Object01
+    3300184: Object02
+    3300186: Object03
+    3300188: Object07
+    3300190: plate
+    3300192: plate01
+    3300194: red
+    3300196: red0
+    3300198: silver
+    3300200: silver04
+    3300202: silver05
+    3300204: silver06
+    3300206: silver07
+    3300208: silver08
+    3300210: silver09
+    3300212: silver10
+    3300214: stwheel
+    3300216: wheel FL 0
+    3300218: wheel FL 1
+    3300220: wheel FL 2
+    3300222: wheel FL n
+    3300224: wood
+    3300226: wood0
+    3300228: wood1
+    4300000: gum140
+    4300002: chrome
+    4300004: chrome0
+    4300006: black m
+    4300008: black m0
+    4300010: body
+    4300012: body0
+    4300014: chrome1
+    4300016: d glass
+    4300018: d glass0
+    4300020: d glass1
+    4300022: chrome2
+    4300024: chrome3
+    4300026: chrome4
+    4300028: chrome5
+    4300030: chrome6
+    4300032: chrome7
+    4300034: d glass2
+    4300036: chrome8
+    4300038: black
+    4300040: body1
+    4300042: glass
+    4300044: chrome9
+    4300046: chrome10
+    4300048: red
+    4300050: chrome11
+    4300052: red0
+    4300054: glass0
+    4300056: glass1
+    4300058: gum
+    4300060: chrome12
+    4300062: chrome13
+    4300064: body2
+    4300066: black0
+    4300068: chrome14
+    4300070: chrome15
+    4300072: chrome01
+    4300074: logox
+    4300076: chrome16
+    4300078: black m1
+    4300080: chrome02
+    4300082: black m01
+    4300084: black1
+    4300086: chrome03
+    4300088: logox01
+    4300090: d glass01
+    4300092: black2
+    4300094: black01
+    4300096: plate
+    4300098: logox0
+    4300100: bodyx
+    4300102: black3
+    4300104: logox1
+    4300106: gum01
+    4300108: black02
+    4300110: plate01
+    4300112: black m2
+    4300114: chrome260
+    4300116: gum120
+    4300118: chrome250
+    4300120: int02
+    4300122: int2
+    4300124: Object01
+    4300126: int
+    4300128: wood0
+    4300130: int0
+    4300132: Object02
+    4300134: Object07
+    4300136: stwheel
+    4300138: int1
+    4300140: chrome210
+    4300142: gum90
+    4300144: gum100
+    4300146: chrome220
+    4300148: chrome230
+    4300150: chrome240
+    4300152: gum110
+    4300154: Object03
+    4300156: wood
+    4300158: wood1
+    4300160: gum130
+    4300162: int10
+    4300164: logo
+    4300166: chrome17
+    4300168: silver
+    4300170: wheel FL n
+    4300172: gum010
+    4300174: silver04
+    4300176: gum94
+    4300178: gum95
+    4300180: logo01
+    4300182: chrome261
+    4300184: silver05
+    4300186: wheel FL 0
+    4300188: gum141
+    4300190: silver06
+    4300192: gum142
+    4300194: gum143
+    4300196: silver09
+    4300198: logo03
+    4300200: chrome263
+    4300202: wheel FL 1
+    4300204: gum147
+    4300206: silver10
+    4300208: gum148
+    4300210: gum149
+    4300212: silver08
+    4300214: gum144
+    4300216: gum146
+    4300218: logo02
+    4300220: chrome262
+    4300222: silver07
+    4300224: wheel FL 2
+    4300226: gum145
+    4300228: body01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
